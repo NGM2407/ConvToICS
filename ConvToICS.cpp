@@ -1,3 +1,4 @@
+#define __STD_WANT_LIB_EXT1 1
 #include<iostream>
 #include<fstream>
 #include<string>
